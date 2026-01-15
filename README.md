@@ -59,7 +59,7 @@ FPGA Implementation
 - **Natural Convection**: h ≈ 10 W/m²·K
 
 - **Hardware**
-  
+ #####  
 I am in the process of acquiring the following to build the hardware model;
 
 PGA board: Digilent Arty A7-35T (Artix-7)
@@ -68,18 +68,18 @@ USB-A
 Micro-USB 
 USB-C)
 
-Thermal / Mechanical
+##### Thermal / Mechanical
 Cartridge heater: 12 V 40–60 W Cartridge Heater, 6 mm × 20–30 mm
 (example: Uxcell 12V 40W 6×20mm)
 Thermal paste: Arctic MX-4
 Heat sink: Aluminum CPU heatsink (passive or fan-mounted)
 Cooling fan: 12 V 80 mm DC fan (e.g. Noctua NF-A8 12V)
 
-Sensors
+##### Sensors
 Temperature sensor: DS18B20 waterproof digital sensor
 MCP9808 I²C temperature sensor breakout
 
-Power Electronics
+##### Power Electronics
 Logic-level MOSFET
 Flyback diode
 Gate resistor: 100 Ω
@@ -87,26 +87,26 @@ Pull-down resistor: 10 kΩ
 Solid-state relay: Fotek SSR-25DD
 Terminal blocks: 2-pin screw terminals
 
-Power
+Power:
 12 V 5 A DC power supply (desktop brick)
 
-Prototyping / Wiring
+Prototyping / Wiring:
 Breadboard or perfboard
 Male–female jumper wires
 Silicone-insulated hookup wire (18–22 AWG)
 
-Cooling
+Cooling:
 Corrosion inhibitor 
 Pump: JT-180A 12 V DC micro pump
 Tubing: 6 mm ID silicone tubing
 Radiator: 120 mm PC liquid-cooling radiator
 Flow sensor: YF-S201
 
-Data / Interface
+Data / Interface:
 UART-USB: CP2102 USB-to-TTL module
 Display: 0.96" OLED I²C (SSD1306)
 
-Tools
+Tools:
 Drill + metal drill bits (6 mm for heater)
 Multimeter
 Thermal epoxy 
