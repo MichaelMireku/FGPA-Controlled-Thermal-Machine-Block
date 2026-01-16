@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def simulate_thermal_block():
-    #Physical Parameters (75 x 75 x 50 mm 6061-T6511 Aluminum Block)
-    rho = 2700          # kg/m^3 (Standard density for 6061 Aluminum)
+    #Physical Parameters (75 x 75 x 50 mm 1100 Aluminum Block)
+    rho = 2700          # kg/m^3 (Standard density for 1100 Aluminum)
     L, W, H = 0.075, 0.075, 0.050  # meters
     volume = L * W * H
     mass = rho * volume # ~0.759 kg
