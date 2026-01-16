@@ -2,7 +2,7 @@
 January 2026
 This is an engineering project that implements real-time thermal control using FPGA-based digital signal processing. This project demonstrates thermal modeling, hardware implementation, and closed-loop control of a thermal system.
 
-This project implements a discrete-time thermal model for a 75×75×50 mm 6061-T6511 aluminum block using FPGA hardware. The system uses a lumped capacitance model with explicit Euler integration to predict and control temperature dynamics in real-time.
+This project implements a discrete-time thermal model for a 75×75×50 mm 1100 aluminum block using FPGA hardware. The system uses a lumped capacitance model with explicit Euler integration to predict and control temperature dynamics in real-time.
 
 #### Project Structure
 
