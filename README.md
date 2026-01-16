@@ -52,7 +52,7 @@ FPGA Implementation
 
 #### Hardware Specifications
 
-- **Target Block**: 75×75×50 mm 6061-T6511 Aluminum
+- **Target Block**: 75×75×50 mm 1100 Aluminum
 - **Mass**: ~0.759 kg
 - **Surface Area**: ~0.02625 m²
 - **Material Properties**: ρ ≈ 2700 kg/m³, cp ≈ 900 J/kg·K
