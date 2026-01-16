@@ -55,11 +55,11 @@ Solving for $T[n+1]$:
 
 $$T[n+1] = T[n] + \frac{\Delta t}{\tau} (T_{ss} - T[n])$$
 
-## 5. Example Case: 75 x 75 x 50 mm 6061-T6511 Aluminum Block
+## 5. Example Case: 75 x 75 x 50 mm 1100 Aluminum Block
 
 Based on the specified hardware dimensions:
 - **Dimensions**: $0.075 \times 0.075 \times 0.050$ m
-- **Material**: 6061-T6511 Aluminum ($\rho \approx 2700$ kg/m$^3$, $c_p \approx 900$ J/kg·K)
+- **Material**: 1100 Aluminum ($\rho \approx 2700$ kg/m$^3$, $c_p \approx 900$ J/kg·K)
 - **Mass ($m$)**: $\approx 0.759$ kg
 - **Surface Area ($A$)**: $\approx 0.02625$ m$^2$
 - **Time Constant ($\tau$)**: With a typical natural convection $h=10$ W/m$^2$·K, $\tau = \frac{m c_p}{hA} \approx 2600$ seconds.
