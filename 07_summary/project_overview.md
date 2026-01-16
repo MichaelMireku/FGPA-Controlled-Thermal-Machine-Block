@@ -1,7 +1,7 @@
 # Engineering Project: FGPA-Controlled Thermal Machine Block
 
 ## Project Overview
-This project demonstrates a complete engineering workflow for the digital control of a thermal system (centered on a 6061-T6511 Aluminum block), bridging first-principles physics with real-time digital design (RTL) intended for future hardware deployment.
+This project demonstrates a complete engineering workflow for the digital control of a thermal system (centered on a 1100 Aluminum block), bridging first-principles physics with real-time digital design (RTL) intended for future hardware deployment.
 
 ## Key Outcomes
 
