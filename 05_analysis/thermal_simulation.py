@@ -7,7 +7,7 @@ def simulate_thermal_block():
     L, W, H = 0.075, 0.075, 0.050  # meters
     volume = L * W * H
     mass = rho * volume # ~0.759 kg
-    cp = 896            # J/(kg*K) (Specific heat of Aluminum)
+    cp = 904            # J/(kg*K) (Specific heat of Aluminum)
     h = 10              # W/(m^2*K) (Natural convection)
     area = 2 * (L*W + L*H + W*H) # ~0.02625 m^2
     t_amb = 25.0        # degC (Ambient temperature)
